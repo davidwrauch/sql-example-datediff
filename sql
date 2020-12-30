@@ -1,4 +1,4 @@
-# how to find what percent of people selected 'other' in a residence type field and then changed their answer from 'other' within 30 minutes of the first time they completed a funnel experience
+#how to find what percent of people selected 'other' in a residence type field and then changed their answer from 'other' within 30 minutes of the first time they completed a funnel experience
 
 with urm_data as(
 select 
